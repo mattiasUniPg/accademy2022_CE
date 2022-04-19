@@ -1,0 +1,15 @@
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\bin\Debug\net6.0\Accademy.ConsoleTest.exe
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\bin\Debug\net6.0\Accademy.ConsoleTest.deps.json
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\bin\Debug\net6.0\Accademy.ConsoleTest.runtimeconfig.json
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\bin\Debug\net6.0\Accademy.ConsoleTest.dll
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\bin\Debug\net6.0\Accademy.ConsoleTest.pdb
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\Accademy.ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\Accademy.ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\Accademy.ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\Accademy.ConsoleTest.AssemblyInfo.cs
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\Accademy.ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\Accademy.ConsoleTest.dll
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\refint\Accademy.ConsoleTest.dll
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\Accademy.ConsoleTest.pdb
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\Accademy.ConsoleTest.genruntimeconfig.cache
+C:\Users\zibet\source\repos\accademy2022_CE\Accademy.ConsoleTest\Accademy.ConsoleTest\obj\Debug\net6.0\ref\Accademy.ConsoleTest.dll
