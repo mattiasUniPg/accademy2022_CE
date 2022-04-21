@@ -50,6 +50,7 @@
     <Compile Include="..\..\..\..\..\ACCADEMY2022_EU\accademy2022_CE\Program.cs">
       <Link>Program.cs</Link>
     </Compile>
+    <Compile Include="Enum\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Class1.cs" />
   </ItemGroup>
@@ -64,6 +65,11 @@
       <Project>{cecfec2d-425c-4195-a382-f428d4ee3dc7}</Project>
       <Name>Accademy.Common.Library</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Constants\" />
+    <Folder Include="Estensioni\" />
+    <Folder Include="Helper\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
