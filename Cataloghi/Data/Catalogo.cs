@@ -8,4 +8,7 @@
 		public string NomeCatalogo { get; set; }
 	}
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> 8eeb94a845ff71ef43cc4e4c3dba8cc9df411b0b

@@ -5,54 +5,56 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System.IO;
+using Data;
 
 namespace Helpers
 {
-    public class ProdottoHelper
+    public class CatalogoHelpers
     {
         public string Path;
 
-        public ProdottoHelper(string path)
+        public CatalogoHelpers(string path)
         {
             Path = path;
         }
-        public void AddProdotto(Prodotto prodotto)
+        public void AddCatalogo(Catalogo catalogo)
         {
-            var result = $"{prodotto.IdProdotto};{prodotto.NomeProdotto};{prodotto.QntInMagazzino}";
+            var result = $"{catalogo.IdCatalogo};{catalogo.NomeCatalogo};{catalogo.IdProdotto};{catalogo.Prezzo}";
             using (var stream = new StreamWriter(Path, true))
             {
                 stream.WriteLine(result);
             }
         }
 
-        public List<Prodotto> DisplayProdotto()
+        public List<Catalogo> DisplayCatalogo()
         {
 
-            var prodottoL = new List<Prodotto>();
+            var catalogoL = new List<Catalogo>();
             using (var stream = new StreamReader(Path))
             {
-                var header = "IDProdotto;Nome;QuantitàMagazzino";
+                var header = "IdCatalogo;NomeCatalogo;IdProdotto;Prezzo";
 
                 var firstLine = stream.ReadLine();
                 if (!firstLine.Equals(header))
                     throw new Exception("File non conforme!");
-               
+
                 while (!stream.EndOfStream)
                 {
                     var row = stream.ReadLine();
                     var splitted = row.Split(";");
 
-                    var prodotto = new Prodotto
+                    var catalogo = new Catalogo
                     {
-                        IdProdotto = splitted[0],
-                        NomeProdotto = splitted[1],
-                        QntInMagazzino = splitted[2]
+                        IdCatalogo = splitted[0],
+                        NomeCatalogo = splitted[1],
+                        IdProdotto = splitted[2],
+                        Prezzo = splitted[3]
                     };
 
-                    prodottoL.Add(prodotto);
+                    catalogoL.Add(catalogo);
                 }
 
-                return prodottoL;
+                return catalogoL;
             }
         }
 

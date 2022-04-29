@@ -5,14 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System.IO;
+using Data;
 
 namespace Helpers
 {
-    public class ProdottoHelper
+    public class ProdottoHelpers
     {
         public string Path;
 
-        public ProdottoHelper(string path)
+        public ProdottoHelpers(string path)
         {
             Path = path;
         }
@@ -36,7 +37,7 @@ namespace Helpers
                 var firstLine = stream.ReadLine();
                 if (!firstLine.Equals(header))
                     throw new Exception("File non conforme!");
-               
+
                 while (!stream.EndOfStream)
                 {
                     var row = stream.ReadLine();
