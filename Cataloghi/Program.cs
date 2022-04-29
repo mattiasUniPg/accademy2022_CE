@@ -1,6 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using Helpers;
 using Helper;
+
+
+var helper = new ProdottoHelper();
+
 
 var Prod = new Prodotto();
 var rub = Prod.Display();//TODO
