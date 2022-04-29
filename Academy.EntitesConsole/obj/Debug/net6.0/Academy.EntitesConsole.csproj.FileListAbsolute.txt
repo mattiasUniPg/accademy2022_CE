@@ -1,0 +1,5 @@
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.EntitesConsole\obj\Debug\net6.0\Academy.EntitesConsole.csproj.AssemblyReference.cache
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.EntitesConsole\obj\Debug\net6.0\Academy.EntitesConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.EntitesConsole\obj\Debug\net6.0\Academy.EntitesConsole.AssemblyInfoInputs.cache
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.EntitesConsole\obj\Debug\net6.0\Academy.EntitesConsole.AssemblyInfo.cs
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.EntitesConsole\obj\Debug\net6.0\Academy.EntitesConsole.csproj.CoreCompileInputs.cache

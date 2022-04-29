@@ -1,0 +1,5 @@
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.TestConsole\obj\Debug\net6.0\Academy.TestConsole.csproj.AssemblyReference.cache
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.TestConsole\obj\Debug\net6.0\Academy.TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.TestConsole\obj\Debug\net6.0\Academy.TestConsole.AssemblyInfoInputs.cache
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.TestConsole\obj\Debug\net6.0\Academy.TestConsole.AssemblyInfo.cs
+C:\Users\zibet\source\repos\accademy2022_CE\Academy.TestConsole\obj\Debug\net6.0\Academy.TestConsole.csproj.CoreCompileInputs.cache

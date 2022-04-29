@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Academy.RentalAgency/1.0.0": {
+        "dependencies": {
+          "Academy.Common": "1.0.0"
+        },
+        "runtime": {
+          "Academy.RentalAgency.dll": {}
+        }
+      },
+      "Academy.Common/1.0.0": {
+        "runtime": {
+          "Academy.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Academy.RentalAgency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Academy.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
