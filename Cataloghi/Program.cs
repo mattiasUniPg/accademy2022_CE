@@ -1,18 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using Helpers;
-using Helper;
+using Data;
 
 
-var helper = new ProdottoHelper();
+var catalogoPath = "";
+var prodottoPath = "";
 
 
-var Prod = new Prodotto();
-var rub = Prod.Display();//TODO
+var helperProdotto = new ProdottoHelper(prodottoPath);
+
+
+var prod = helperProdotto.DisplayProdotto();
+//var rub = Prod.Display();//TODO
 
 Console.WriteLine("*********************");
 
-foreach (var prodotto in rub)
+foreach (var prodotto in prod)
 {
     Console.WriteLine($"ID: {prodotto.IdProdotto} - Nome: {prodotto.NomeProdotto} - Giacenza: {prodotto.QntInMagazzino} ");
 }
