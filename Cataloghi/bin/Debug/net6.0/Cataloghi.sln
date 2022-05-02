@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Cataloghi", "Cataloghi.exe", "{53766235-6A8A-48CB-92BF-D7A67050A41E}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\zibet\source\repos\accademy2022_CE\Cataloghi\bin\Debug\net6.0\Cataloghi.exe
+		RemoteMachine = LAPTOP-E1UQ64C5
+		StartingDirectory = C:\Users\zibet\source\repos\accademy2022_CE\Cataloghi\bin\Debug\net6.0
+		Environment = Predefinita
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53766235-6A8A-48CB-92BF-D7A67050A41E}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53A16E6-9A87-4B41-8045-38D9EAE5AE0C}
+	EndGlobalSection
+EndGlobal
